@@ -38,6 +38,6 @@ dependencies {
 
     api libraries['io.fabric8:kubernetes-model']
 
-    testImplementation libraries['junit:junit']
+    testImplementation libraries['org.junit.jupiter:junit-jupiter-api']
     testImplementation libraries['org.jetbrains.kotlin:kotlin-test-junit']
 }

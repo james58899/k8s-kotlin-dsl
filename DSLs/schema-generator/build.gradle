@@ -7,7 +7,7 @@ dependencies {
     implementation project(":generator-base")
 
     implementation libraries['com.google.code.gson:gson']
-    implementation libraries['com.google.code.gson:gson-extras']
+    implementation libraries['org.danilopianini:gson-extras']
 
     implementation libraries['org.jetbrains.kotlin:kotlin-stdlib']
     implementation libraries['org.jetbrains.kotlin:kotlin-reflect']

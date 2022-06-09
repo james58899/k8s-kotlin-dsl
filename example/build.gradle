@@ -13,6 +13,6 @@ dependencies {
 
     testImplementation libraries['com.google.code.gson:gson']
     testImplementation libraries['com.google.guava:guava']
-    testImplementation libraries['junit:junit']
+    testImplementation libraries['org.junit.jupiter:junit-jupiter-api']
     testImplementation libraries['org.jetbrains.kotlin:kotlin-test-junit']
 }

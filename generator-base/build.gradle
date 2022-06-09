@@ -7,6 +7,6 @@ dependencies {
     implementation libraries['com.google.code.gson:gson']
     implementation libraries['com.google.guava:guava']
 
-    testImplementation libraries['junit:junit']
+    testImplementation libraries['org.junit.jupiter:junit-jupiter-api']
     testImplementation libraries['org.jetbrains.kotlin:kotlin-test-junit']
 }
